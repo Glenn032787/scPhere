@@ -3,6 +3,7 @@ output:
   html_document: default
   pdf_document: default
 ---
+# Fork of klarman-cell-observatory/scPhere. Updated to be compatible with tf2.X
 
 Deep generative model embedding single-cell RNA-Seq profiles on hyperspheres or hyperbolic spaces
 ====================
